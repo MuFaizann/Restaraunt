@@ -243,7 +243,7 @@ export default function MenuClientPage() {
       {/* HERO: image only at the top, below navbar, with "OUR MENU" overlapping */}
       <div className="relative w-full h-[300px] md:h-[400px] lg:h-[480px] -mt-8">
         <Image
-          src="/images/Rodri.PNG"
+          src="/images/rodri.PNG"
           alt="Rodri Hero"
           fill
           className="object-cover"
